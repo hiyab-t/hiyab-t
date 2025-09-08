@@ -9,7 +9,8 @@
 -> With a long history of supporting NGOs as a volunteer and coming from a conlict-ridden area, I am deeply passionate about supporting
 -> NGOs and generally projects with a humanitarian cause. Additionally, working on NGO projects are quite interesting! There are usually
 -> several datasets, limitations to consider and ambiguity to navigate prompting for creative data solutions. As for fraud detection
--> machine learning projects, I find it exciting to work on pipelines where hybrid model approaches (supervised + anomaly detection) can be -> applied to tackle critical real-world problems.
+-> machine learning projects, I find it exciting to work on pipelines where hybrid model approaches (supervised + anomaly detection) can be
+-> applied to tackle critical real-world problems.
 
 If you want to collaborate or have other ideas, don't hesitate to reach out! 
 
