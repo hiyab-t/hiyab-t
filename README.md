@@ -6,7 +6,8 @@
    - End-to-end data pipeline projects (especially those supporting NGOs or humanitarian causes).
    - Machine learning projects particularly fraud detection pipelines that combine supervised learning with anomaly detection (hybrid model approaches)
 
-- ❓ Motivation & project interest
+- ❓ Motivation & project interest 
+                                                                                      <img width="512" height="512" alt="teaching" src="https://github.com/user-attachments/assets/e0ec6a25-cff0-43f0-a03d-e4b43f620d2b" />
 
   With a long history of supporting NGOs as a volunteer and coming from a conlict-ridden area, I am deeply passionate about supporting NGOs and generally projects with a humanitarian cause. Additionally, working on NGO projects are quite interesting! There are usually several datasets, limitations to consider and ambiguity to navigate prompting for creative data solutions.
 
